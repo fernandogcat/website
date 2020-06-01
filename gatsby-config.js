@@ -5,6 +5,16 @@
  */
 
 module.exports = {
-  /* Your site config here */
   // pathPrefix: "/website",
+  siteMetadata: {
+    title: 'fegabe.es - Fernando Garcia Bernal - Unity Game Developer',
+  },
+  plugins: [
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: " UA-4375927-2",
+      },
+    },
+  ],
 }
