@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "presskit": "git+https://github.com/fegabe/presskit.html.git",
+        "presskit.html": "https://github.com:fegabe/presskit.html.git"
+    }
+}
