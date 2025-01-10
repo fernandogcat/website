@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>
+  <title>6Toad Games Cooperative</title>
+  <based-in>Barcelona</based-in>
+  <founding-date>2021</founding-date>
+  <website>https://6toad.com</website>
+  <press-contact>contact@6toad.com</press-contact>
+
+  <!-- Google analytics ID: -->
+  <analytics>G-09CHQRPTWL</analytics>
+
+  <phone></phone>
+  
+  <address>
+    <line>
+      <!-- Street -->
+    </line>
+    <line>
+      <!-- City -->
+    </line>
+    <line>
+      <!-- Country -->
+    </line>
+  </address>
+
+  <socials>
+    <social>
+      <name>Twitter @6ToadGames</name>
+      <link>https://twitter.com/6toadGames</link>
+    </social>
+    <social>
+      <name>Discord server</name>
+      <link>https://discord.gg/yPY2z6gsVD</link>
+    </social>
+    <social>
+      <name>itch.io</name>
+      <link>https://6toad.itch.io</link>
+    </social>
+    <social>
+      <name>Steam games</name>
+      <link>https://store.steampowered.com/search/?developer=6%20Toad%20Games</link>
+    </social>
+    <social>
+      <name>Youtube</name>
+      <link>https://www.youtube.com/channel/UCfC4ZIcSVxcezhgmKtjlHBA</link>
+    </social>
+  </socials>
+
+  <description>A game making collective based in Barcelona</description>
+
+  <!-- Choose between a single block: -->
+  <history></history>
+
+  <!-- Or multiple blocks: -->
+  <!--
+  <histories>
+    <history>
+      <header></header>
+      <text></text>
+    </history>
+  </histories>
+  -->
+
+  <trailers>
+    <trailer>
+      <name>Space Ducks: The great escape</name>
+
+      <youtube>
+        3Lvs_kl0XEw
+      </youtube>
+    </trailer>
+
+    <trailer>
+      <name>Time's Up in Tiny Town - Mobile Launch Trailer</name>
+
+      <youtube>
+        ACnnBabp6nU
+      </youtube>
+    </trailer>
+  </trailers>
+
+  <awards>
+    <award>
+      <description>Mom's award</description>
+      <info>Best game of my only gamedev son</info>
+    </award>
+  </awards>
+
+  <!-- <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes> -->
+
+  <!-- <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals> -->
+
+  <!-- <credits>
+    <credit>
+      <person></person>
+      <role></role> -->
+
+      <!-- Optional: -->
+      <!-- <website></website>
+    </credit>
+  </credits> -->
+
+  <contacts>
+    <contact>
+      <name>6Toad Co.</name>
+
+      <!-- Pick one: -->
+      <mail>contact@6toad.com</mail>
+    </contact>
+  </contacts>
+</company>
